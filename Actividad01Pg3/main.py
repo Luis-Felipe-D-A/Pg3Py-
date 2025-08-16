@@ -1,4 +1,4 @@
-from Clases.Animal import Animal
+from Clases.Animal import *
 
 a = Animal('Rock', 20.2, 'Luis', '5/04/2000', '7/10/2025')
 
