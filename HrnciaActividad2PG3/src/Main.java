@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Automovil auto = new Automovil("2022-05-10", "CHS123456", "MTR654321","Toyota", "Corolla", 25000.00);
+        Automovil auto = new Automovil("2022-05-10", "CHS123456", "MTR654321","Toyota", "Corolla", 400000.00);
 
         auto.mostrarDatos();
 
