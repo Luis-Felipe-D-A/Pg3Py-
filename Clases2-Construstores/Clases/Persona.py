@@ -19,7 +19,7 @@ class Persona:
     def apellido(self):
         return self._apellido
 
-    # Método SET
+    # Método_SET
     @apellido.setter
     def apellido(self, nuevo_apellido):
         self._apellido = nuevo_apellido
